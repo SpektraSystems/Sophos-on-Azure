@@ -44,6 +44,9 @@ To activate the Sophos trial version proceed as follows:
 3. In the **Overview** section, select the **sophos-vm**.  
 <img src="/images/selecting sophos vm.png"/>  
 
+4. In the **Overview** blade of the **sophos-vm**, **copy** the **DNS name** of the VM.  
+<img src="/images/copy dns of sophus vm.png"/>  
+
 
 
 
