@@ -44,3 +44,5 @@
 12. Keep the rest of the values as default and click on **Save**. Now the Web Server will be added successfully.   
 <img src="/images/add web server image 2.png"/>  
 
+13. Now in the Sophos XG Firewall Dashboard, Under the **PROTECT** section, click on **Firewall**. Now click on **Add Firewall Rule**.  
+<img src="/images/add firewall click.png"/>  
