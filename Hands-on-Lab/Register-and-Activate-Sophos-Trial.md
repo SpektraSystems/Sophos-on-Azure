@@ -3,6 +3,7 @@
 To activate a trial version of Sophos XG Firewall proceed as follows:  
 
 1.  Follow this [link](https://secure2.sophos.com/en-us/products/next-gen-firewall/free-trial.aspx) to register for the trial license of Sophos XG Firewall.  
+
 2.  Enter the following details in the signup page  
     * **First Name**    
     * **Last Name**  
@@ -10,5 +11,19 @@ To activate a trial version of Sophos XG Firewall proceed as follows:
     
     After entering the above details click on **Next**.   
 
-<img src="/images/sophos trial signup image 1.png"/>
+<img src="/images/sophos trial signup image 1.png"/>  
+
+3. On clicking Next, you will be redirected to the next page to enter further details.  
+   * **Job Role**  
+   * **Phone number**  
+   * **Company**  
+   * **Industry**  
+   * **Company Size**  
+   * **Country**  
+   * **State/Province**  
+   * **Check the terms and conditions statement**.  
+   
+   After filling the above details click on **Submit**.  
+   <img src="/images/sophos trial signup image 2.png"/>
+   
 
