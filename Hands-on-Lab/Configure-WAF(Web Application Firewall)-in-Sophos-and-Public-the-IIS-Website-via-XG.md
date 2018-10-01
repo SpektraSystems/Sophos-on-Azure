@@ -22,3 +22,6 @@
 
 7.  In the Sophos XG Firewall Dashboard, under the **Protect** section, **Select** **Web Server**.  
 <img src="/images/select web server.png"/>  
+
+8. Click on **Add** to enter the details of the Web Server.  
+<img src="/images/add web browser.png"/>    
