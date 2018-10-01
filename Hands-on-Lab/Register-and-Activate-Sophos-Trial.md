@@ -59,6 +59,9 @@ To activate the Sophos trial version proceed as follows:
 7. To register the trial license, choose **I have an existing serial number** and enter the **Serial Number** you recieved via email. After entering the Serial Number **Click** on **Continue**.    
 <img src="/images/serial number entering.png"/>  
 
+8. Now you will be prompted to create a **Sophos ID**. To create a Sophos ID click on **Create Sophos ID**.  
+<img src="/images/sophos id creation.png"/>  
+
 
 
 
