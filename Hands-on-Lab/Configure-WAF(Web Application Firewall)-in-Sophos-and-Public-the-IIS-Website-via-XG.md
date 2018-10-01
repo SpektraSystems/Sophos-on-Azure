@@ -29,6 +29,14 @@
 9. Enter the **Name** to be given to the Webserver. For **Host**, click on the drop-down box corresponding to the Host.  
 <img src="/images/web server details image 1.png"/>  
 
-10. Click on **Create new**.  
+10. Click on **Create new** and then on **IP Host**.    
 <img src="/images/create new.png"/>  
 
+11. Enter the follwing details:  
+    * Name: **Enter the name for the webserver.**  
+    * IP Version: **IPv4**  
+    * Type: **IP**  
+    * IP Address: **Enter the Private IP address of the iis-vm**
+    
+    After entering the details, click on **Save**.  
+<img src="/images/Add IP host.png"/>  
