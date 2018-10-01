@@ -1,4 +1,4 @@
-# Configure WAF(Web Application Firewall) in Sophos and Public the IIS Website via XG  
+# Configure Web Application Firewall in Sophos and Public the IIS Website via XG  
 
 1. Login to Azure by using the provided credentials. To login to azure go to [portal.azure.com](https://portal.azure.com/)  
 
