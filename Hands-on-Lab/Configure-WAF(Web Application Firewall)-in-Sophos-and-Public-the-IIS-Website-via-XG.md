@@ -46,3 +46,8 @@
 
 13. Now in the Sophos XG Firewall Dashboard, Under the **PROTECT** section, click on **Firewall**. Now click on **Add Firewall Rule**.  
 <img src="/images/add firewall click.png"/>  
+
+14. Click on **Business Application Rule**.  
+<img src="/images/business applciation rule select.png"/>  
+
+
