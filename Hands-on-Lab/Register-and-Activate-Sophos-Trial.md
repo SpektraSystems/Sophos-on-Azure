@@ -47,6 +47,15 @@ To activate the Sophos trial version proceed as follows:
 4. In the **Overview** blade of the **sophos-vm**, **copy** the **DNS name** of the VM.  
 <img src="/images/copy dns of sophus vm.png"/>  
 
+5. Paste the following URL in any browser *https://DNSname:4444* (Replace the 'DNSname' with the DNS name of the Sophos VM) to go to the Web UI of the Sophos XG Firewall.  
+
+6. Enter the following details.  
+   * Username: **admin**  
+   * Password: **labPassword1!**  
+   
+   After entering the details click on **Login**. 
+<img src="/images/sophos login.png"/>  
+
 
 
 
