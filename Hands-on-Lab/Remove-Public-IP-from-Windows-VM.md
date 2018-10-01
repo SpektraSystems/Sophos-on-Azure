@@ -12,3 +12,7 @@
 5. On clicking Dissociate, you will get the following pop-up. **Click** on **Yes** to continue.  
 <img src="/images/dissociate yes.png"/>  
 
+6. Navigate to the **Overview** blade of the Resource group and select **iis-vm**.  
+<img src="/images/select iis vm.png"/>  
+
+
