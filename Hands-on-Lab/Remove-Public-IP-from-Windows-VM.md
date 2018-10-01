@@ -15,4 +15,7 @@
 6. Navigate to the **Overview** blade of the Resource group and select **iis-vm**.  
 <img src="/images/select iis vm.png"/>  
 
+7. In the **Overview** blade of the **iis-vm** you can see that the **Public IP address** and  **DNS name** have disappeared.  
+<img src="/images/pip gone.png"/>  
+
 
