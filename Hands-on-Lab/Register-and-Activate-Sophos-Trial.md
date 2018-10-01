@@ -95,3 +95,6 @@ To activate the Sophos trial version proceed as follows:
 17. **Click** on the **Initiate License Synchronization** button to **Continue**.  
 <img src="/images/initate license sync.png"/>  
 
+18. The Basic Setup is now completed. **Click** on **Continue** to Proceed further.  
+<img src="/images/basic setup complete.png"/>  
+
