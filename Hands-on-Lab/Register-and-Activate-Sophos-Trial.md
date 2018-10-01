@@ -24,6 +24,11 @@ To activate a trial version of Sophos XG Firewall proceed as follows:
    * **Check the terms and conditions statement**.  
    
    After filling the above details click on **Submit**.  
-   <img src="/images/sophos trial signup image 2.png"/>
+   <img src="/images/sophos trial signup image 2.png"/>  
+   
+4. You wil now receive a mail with the serial number for your trial license.  
+   
+   <img src="/images/sophos seiral number mail.png"/>  
+
    
 
