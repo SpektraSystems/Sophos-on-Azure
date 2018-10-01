@@ -79,5 +79,7 @@ To activate the Sophos trial version proceed as follows:
 
 12. Now navigate back to the **Sophos Device Management** page to sign in using the newly created **Sophos ID**.  
 <img src="/images/sophos device mgmt page.png"/>  
-   
+
+13. You will now be prompted to enter the **email address** which was used to create the **Sophos ID** and the **password** to **Sign In**.  
+<img src="/images/signing in using sophos id.png"/>    
 
