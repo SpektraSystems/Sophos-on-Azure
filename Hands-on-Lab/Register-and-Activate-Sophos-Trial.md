@@ -37,8 +37,15 @@ To activate a trial version of Sophos XG Firewall proceed as follows:
 To activate the Sophos trial version proceed as follows:  
 
 1. Login to Azure by using the provided credentials. To login to azure go to [portal.azure.com](https://portal.azure.com/)  
+
 2. After logging in, **Click** on **Resource Groups** and then select the resource group as shown below.  
 <img src="/images/selecting rg.png"/>  
+
+3. In the **Overview** section, select the **sophos-vm**.  
+<img src="/images/selecting sophos vm.png"/>  
+
+
+
 
 
    
