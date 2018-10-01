@@ -86,3 +86,7 @@ To activate the Sophos trial version proceed as follows:
 14. Now you will receive a message to register the device in which you have installed the Sophos XG Firewall. The device will be given a unique ID as shown below. **Click** on **Continue** to proceed.  
 <img src="/images/sophos device registeration.png"/>  
 
+15. Enter the **Company** Name and **Country** and **Click** on **Continue**.  
+<img src="/images/company name and country.png"/>    
+
+16. 
