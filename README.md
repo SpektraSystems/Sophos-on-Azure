@@ -37,6 +37,13 @@ Sophos XG Firewall is a next-generation firewall you can select and launch from 
 4. After the lab is deployed, the lab details will be displayed as given below:  
 <img src="/images/odl details.png"/>  
 
+# Pre-deployed envrionment  
+
+To login in to the pre-deployed sophos environment proceed as follows:  
+
+1. From the **ODL details** page copy the username and password.  
+<img src="/images/username and password odl.png"/>    
+
 
 # Register and Activate Sophos Trial
 
