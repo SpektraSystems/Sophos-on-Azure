@@ -62,7 +62,15 @@ To activate the Sophos trial version proceed as follows:
 8. Now you will be prompted to create a **Sophos ID**. To create a Sophos ID click on **Create Sophos ID**.  
 <img src="/images/sophos id creation.png"/>  
 
-
+9. You will be redirected to a page to create the **Sophos ID**. Enter the following details:  
+   * **First Name.**  
+   * **Last Name**  
+   * **Email Address**  
+   
+   After entering the details click on **Register**.  
+   <img src="/images/sophos id details.png"/>  
+   
+   
 
 
 
