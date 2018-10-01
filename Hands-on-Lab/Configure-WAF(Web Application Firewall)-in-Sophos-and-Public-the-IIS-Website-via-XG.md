@@ -19,3 +19,6 @@
    
    After entering the details click on **Login**. 
 <img src="/images/sophos login.png"/>  
+
+7.  In the Sophos XG Firewall Dashboard, under the **Protect** section, **Select** **Web Server**.  
+<img src="/images/select web server.png"/>  
