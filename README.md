@@ -45,6 +45,16 @@ To login in to the pre-deployed sophos environment proceed as follows:
 <img src="/images/username and password odl.png"/>    
 
 
+2. Login to Azure by using the provided credentials. To login to azure go to [portal.azure.com](https://portal.azure.com/)  
+
+3. After logging in, **Click** on **Resource Groups** and then select the resource group as shown below.  
+<img src="/images/selecting rg.png"/>  
+
+4. All the resources are deployed to this resource group.  
+
+<img src="pre-deployed resources.png"/>  
+
+
 # Register and Activate Sophos Trial
 
 ## Registering for Sophos Trial
