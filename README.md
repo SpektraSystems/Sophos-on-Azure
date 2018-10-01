@@ -5,10 +5,11 @@ Sophos XG Firewall is a next-generation firewall you can select and launch from 
 
 <!-- TOC -->
 1. [AEC Registeration experience](#aec-registeration-experience)  
-2. [Register and Activate Sophos Trial](#register-and-activate-sophos-trial)    
-3. [Verify IIS Website Working ](#verify-iis-website-working)    
-4. [Remove Public IP from Windows VM](#remove-public-ip-from-windows-vm)      
-5. [Configure Web Application Firewall in Sophos and Public the IIS Website via XG](#configure-web-application-firewall-in-sophos-and-public-the-iis-Website-via-xg)      
+2. [Pre-deployed envrionment](#pre-deployed-envrionment)  
+3. [Register and Activate Sophos Trial](#register-and-activate-sophos-trial)    
+4. [Verify IIS Website Working ](#verify-iis-website-working)    
+5. [Remove Public IP from Windows VM](#remove-public-ip-from-windows-vm)      
+6. [Configure Web Application Firewall in Sophos and Public the IIS Website via XG](#configure-web-application-firewall-in-sophos-and-public-the-iis-Website-via-xg)      
 
 
 
@@ -52,7 +53,7 @@ To login in to the pre-deployed sophos environment proceed as follows:
 
 4. All the resources are deployed to this resource group.  
 
-<img src="pre-deployed resources.png"/>  
+<img src="/images/pre-deployed resources.png"/>  
 
 
 # Register and Activate Sophos Trial
