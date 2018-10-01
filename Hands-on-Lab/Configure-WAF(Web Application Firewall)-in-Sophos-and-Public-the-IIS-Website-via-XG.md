@@ -25,3 +25,7 @@
 
 8. Click on **Add** to enter the details of the Web Server.  
 <img src="/images/add web browser.png"/>    
+
+9. Enter the **Name** to be given to the Webserver. For **Host**, click on the drop-down box corresponding to the Host.  
+<img src="/images/web server details image 1.png"/>  
+
