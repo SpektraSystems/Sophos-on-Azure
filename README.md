@@ -34,6 +34,9 @@ Sophos XG Firewall is a next-generation firewall you can select and launch from 
 
 <img src="/images/launch lab button.png"/>  
 
+4. After the lab is deployed, the lab details will be displayed as given below:  
+<img src="/images/odl details.png"/>  
+
 
 # Register and Activate Sophos Trial
 
