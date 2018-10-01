@@ -5,14 +5,11 @@ Sophos XG Firewall is a next-generation firewall you can select and launch from 
 
 <!-- TOC -->
 
-1. [Solution Overview](#solution-overview)
-2. [Template Solution Architecture ](#template-solution-architecture)
-3. [Licenses and Costs ](#licenses-and-costs)
-4. [Prerequisites](#prerequisites)
-5. [Deployment Steps](#deployment-steps)
-6. [Deployment Guide](#deployment-guide)
-7. [Deployment Time](#deployment-time)
-8. [Support](#support)
+1. [Register and Activate Sophos Trial](#solution-overview)
+2. [Verify IIS Website Working ](#template-solution-architecture)
+3. [Remove Public IP from Windows VM](#prerequisites)
+4. [Configure WAF(Web Application Firewall) in Sophos and Public the IIS Website via XG](#licenses-and-costs)
+
 
 
 <!-- /TOC -->
