@@ -73,6 +73,8 @@ To activate the Sophos trial version proceed as follows:
 10. You will now receive a mail with a link to confirm the Sophos ID registeration. Click on the link to proceed.  
 <img src="/images/sophos id confirmation.png"/>  
 
+11. On clicking the link you will be redirected to a page where you will be promoted to set a new **password** for your Sophos ID. After entering the new password **click** on **Save Password**.    
+<img src="/images/sophos id password set.png"/>  
    
 
 
