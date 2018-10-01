@@ -9,3 +9,6 @@
 4. In the **Overview** blade of the **iis-pip**, **click** on **Dissociate**.  
 <img src="/images/dissociate pip.png"/>  
 
+5. On clicking Dissociate, you will get the following pop-up. **Click** on **Yes** to continue.  
+<img src="/images/dissociate yes.png"/>  
+
