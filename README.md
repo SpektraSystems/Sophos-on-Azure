@@ -30,3 +30,6 @@ Sophos XG Firewall is a next-generation firewall you can select and launch from 
    
 <img src="/images/AEC registeration.png"/>  
 
+3. After entering the details, **click** on the **LAUNCH LAB** button to proceed further.      
+
+<img src="/images/launch lab button.png"/>  
