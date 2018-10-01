@@ -14,3 +14,19 @@ Sophos XG Firewall is a next-generation firewall you can select and launch from 
 
 
 <!-- /TOC -->
+
+# AEC Registeration Experience  
+
+1. Navigate to the URL provided to sign-up for the lab.  
+
+2. Enter the following details:  
+   * **First Name**  
+   * **Last Name**  
+   * **Work email**  
+   * **Organization**  
+   * **Country**  
+   
+   After entering the details click on **SUBMIT**.  
+   
+<img src="/images/AEC registeration.png"/>  
+
