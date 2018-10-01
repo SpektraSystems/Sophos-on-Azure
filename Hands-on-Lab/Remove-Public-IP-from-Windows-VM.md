@@ -5,3 +5,7 @@
 
 3. In the **Overview** section, select **iis-pip**.  
 <img src="/images/select iis pip.png"/>  
+
+4. In the **Overview** blade of the **iis-pip**, **click** on **Dissociate**.  
+<img src="/images/dissociate pip.png"/>  
+
