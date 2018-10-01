@@ -40,3 +40,7 @@
     
     After entering the details, click on **Save**.  
 <img src="/images/Add IP host.png"/>  
+
+12. Keep the rest of the values as default and click on **Save**.  
+<img src="/images/add web server image 2.png"/>  
+
